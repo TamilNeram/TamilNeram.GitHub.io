@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="BEC8AB9E5274D5246175D0A4B35C3890B293A6C8E2AF11E23510B367AF51E355750846D23FF72E05576012AECAC23A94A6BD43E5DAC6C0AF5A5A8802A66BE46B" Timestamp="1D7FE47066F4A1C" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="9.0.0.0" Version="9.0.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
+		<ApplicationVersionInfo Build="9.1.0.50238" Name="G Web Development Software" Version="21.0.0" />
+	</SourceModelFeatureSet>
+	<ComponentDefinition Company="தமிழ்" DefaultConfigurationName="Configuration1" Description="தமிழ் நாட்காட்டி" Id="1" Product="நேரம்" RootNamespaceId="c5bff0dc5bdd426db4e2eac53eef1017" UserVersion="1.3.0.0" xmlns="http://www.ni.com/GComponent.xsd">
+		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
+			</IconPanel>
+		</Icon>
+		<CompilerSymbolTable Id="5" xmlns="http://www.ni.com/PlatformFramework" />
+		<ComponentConfiguration ComponentSubtypeIdentifier="WebApplication" Id="10" Name="Configuration1">
+			<CompilerSymbolTable Id="11" xmlns="http://www.ni.com/PlatformFramework" />
+			<WebApplicationOutputTypeProperties IconFileEnvoy="138c8211548a49f081c5fa1f05e62434" Id="12" xmlns="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="e7fca7f0317b478b8935e0878f546e26" Id="8b085d4a9c594791a29f173ad20a9a4c" TopLevel="True" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="5080fda64659410dafcd35e75dc2202c" Id="ee21fe7babb347bdbb6f698b69f9bb12" TopLevel="True" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="2c5ec197bcfb485f9bd188e3136d52f1" Id="2e1583de95544c99b1b32810452e6bc9" TopLevel="True" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="138c8211548a49f081c5fa1f05e62434" Id="f86d878f95264f00ba85281c661a531b" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="273dd8edd6f6446cb0a0cbb0a00f4f54" Id="aee3db5b79ee45c9adb16118515664ce" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="9a1fea73bdb84e759bb1dd2e989c94a7" Id="3dee061c04a4dbca7ac8999c85278f3" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="fda73c2ef57c4354acfd80fd0ac7e10d" Id="51f3672f3716410cb2acaa8d561724eb" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="1ef253f6459a4ef5b432bed117520e41" Id="f44a6b757f474f6680d7a0b17ae0b448" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="967166cc0db34ef8a5970fcfa70d22e3" Id="599e1fcf212e46f8829b8b4c942a8fd8" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="e9e1de980f084dd6b0d0c8dfc4060eaf" Id="1527f57d294b43a2b0524e1f2b741776" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="f8bf72034c8a47cdaed2df0930713b23" Id="2349fbafabe548518ce88d303dcbe378" />
+		</ComponentConfiguration>
+	</ComponentDefinition>
+	<EnvoyManagerFile Id="6" xmlns="http://www.ni.com/PlatformFramework">
+		<EnvoyManagerRootEnvoy Id="7" ModelDefinitionType="EnvoyManagerRootEnvoy" Name="RootEnvoy" />
+		<EmbeddedDefinitionReference Id="8" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionEnvoyHierarchyRoot" Name="Global namespace">
+			<ComponentDefinitionEnvoyHierarchyRoot xmlns="http://www.ni.com/GComponent.xsd" />
+			<NameScopingEnvoy AutomaticallyResolveUp="True" Id="c5bff0dc5bdd426db4e2eac53eef1017" Name="நேரம்">
+				<SourceFileReference Id="e7fca7f0317b478b8935e0878f546e26" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="தொடர்முறை.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="தொடர்முறை.gviweb" />
+				<SourceFileReference Id="5080fda64659410dafcd35e75dc2202c" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="எண்முறை.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="எண்முறை.gviweb" />
+				<SourceFileReference Id="2c5ec197bcfb485f9bd188e3136d52f1" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="தகவல்.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="தகவல்.gviweb" />
+				<NameScopingEnvoy AutomaticallyResolveUp="True" Id="8c05a6bc704340b8950fda1dba1abe29" Name="குழலிசை">
+					<FileReference Bindings=".ico" Id="138c8211548a49f081c5fa1f05e62434" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="கடிகாரம்.ico" StoragePath="குழலிசை\கடிகாரம்.ico" />
+					<SourceFileReference Id="273dd8edd6f6446cb0a0cbb0a00f4f54" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="நேரம் மாற்று.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\நேரம் மாற்று.gviweb" />
+					<SourceFileReference Id="9a1fea73bdb84e759bb1dd2e989c94a7" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="திங்கள்-நாள்கள்.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\திங்கள்-நாள்கள்.gviweb" />
+					<SourceFileReference Id="fda73c2ef57c4354acfd80fd0ac7e10d" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="குறள்தொடக்கம்.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\குறள்தொடக்கம்.gviweb" />
+					<SourceFileReference Id="1ef253f6459a4ef5b432bed117520e41" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="குறள்படி.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\குறள்படி.gviweb" />
+					<SourceFileReference Id="967166cc0db34ef8a5970fcfa70d22e3" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="குறளிசை.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\குறளிசை.gviweb" />
+					<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/HTMLVi}Process.HTMLVi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="e9e1de980f084dd6b0d0c8dfc4060eaf" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="ஆங்கிலநாள்-தமிழ்நாள்.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="குழலிசை\ஆங்கிலநாள்-தமிழ்நாள்.gviweb" />
+					<FileReference Bindings=".png" Id="f8bf72034c8a47cdaed2df0930713b23" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="நிலா.png" StoragePath="குழலிசை\நிலா.png" />
+				</NameScopingEnvoy>
+			</NameScopingEnvoy>
+		</EmbeddedDefinitionReference>
+		<NameScopingEnvoy Id="9" Name="நேரம்.gcomp" NameTracksFileName="True">
+			<ContentReference ContentIdentifier="10" Id="13" Name="Configuration1" OverridingModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentConfiguration" />
+		</NameScopingEnvoy>
+	</EnvoyManagerFile>
+</SourceFile>

@@ -1,0 +1,7 @@
+
+.cache/*
+Builds/*
+ProjectMedia/*
+*.lnk
+.DS_Store
+*.pyc
