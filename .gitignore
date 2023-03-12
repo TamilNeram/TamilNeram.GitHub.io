@@ -5,3 +5,4 @@ ProjectMedia/*
 *.lnk
 .DS_Store
 *.pyc
+*.cache*

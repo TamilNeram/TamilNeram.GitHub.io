@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="AA9FA1045AE88A5C298E335F8995B576887C025A9DCC80DED798C4E4CDB21A89A6AC40C9A2FCB8C4D9BBAAF898F7D7B39E9FEB4E4263D6A673BF7113334F5346" Timestamp="1D7FE48B05DB875" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="9E83B1B3531A6279A91FDBF63706AC9DCAB9E14F564847C5BF738D7E12BDE4DB7599F66B184148320B7C94CCABBCAF17CE6AF6F8F0B3E3EC5D0268132B6CDF9E" Timestamp="1D954AEF8BD6D6D" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Editor" Name="http://www.ni.com/PanelCommon" OldestCompatibleVersion="6.1.0.0" Version="6.1.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
-		<ApplicationVersionInfo Build="9.1.0.50238" Name="G Web Development Software" Version="21.0.0" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="Editor" Name="http://www.ni.com/PanelCommon" OldestCompatibleVersion="6.1.0.0" Version="6.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.5.0.49854" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ApplicationVersionInfo Build="9.5.0.49854" Name="G Web Development Software" Version="22.3.0" />
 	</SourceModelFeatureSet>
 	<VirtualInstrument CustomTitle="நேரம்-தாவல்" Id="1" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" xmlns="http://www.ni.com/LabVIEW.VI">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
@@ -188,7 +188,7 @@
 						<Wire Id="47fe83363dc54811aee730b175b06a22" Joints="N(4a9e1f00eaa1436daee43ee3ce2066bc:99b85b1334074fc6ba1706996f2d94e1)|(4,45) N(8b86f77caba04c2a8cbb712fd77b9f69:99b85b1334074fc6ba1706996f2d94e1)|(91,45)" xmlns="http://www.ni.com/PlatformFramework" />
 					</CaseStructure.Case>
 					<CaseStructure.Case Bounds="5 5 95 85" Id="8f1cc27d6cf14150b689fd293fb4dfb6" Pattern="True">
-						<MethodCall Bounds="30 30 40 40" Id="80152e7522644cbc8a4b1761de4675d6" ResolveFailedHint="&quot;C:\\G\\TamilNeram.github.io\\நேரம்.gcomp\\குழலிசை\\குறள்படி.gviweb&quot;" Signature="@2f30ebad99d94bb4aff764efdf3c9f10" Target="நேரம்::குழலிசை::குறள்படி.gviweb" xmlns="http://www.ni.com/MocCommon">
+						<MethodCall Bounds="30 30 40 40" Id="80152e7522644cbc8a4b1761de4675d6" ResolveFailedHint="&quot;\\\\vmware-host\\Shared Folders\\Documents\\கிட்படி\\TamilNeram.GitHub.io\\docs\\தமிழ்\\நேரம்.gcomp\\குழலிசை\\குறள்படி.gviweb&quot;" Signature="@2f30ebad99d94bb4aff764efdf3c9f10" Target="நேரம்::குழலிசை::குறள்படி.gviweb" xmlns="http://www.ni.com/MocCommon">
 							<p.MethodDeclaration>
 								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 									<Parameter Id="L0" Desc="அடைவு" />
@@ -257,7 +257,7 @@
 				<DataAccessor Bounds="547 230 40 15" DataItem="93d6f9fb47fe4cbbaa35cfeec8aa16e8" Id="5af0384912734273ac01815b60b96d9f" Label="5d045e65063d443d86a138083f2e3d17" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="UInt8" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
-				<MethodCall Bounds="152 285 40 40" Id="9fdeb9c136084b898be6ecb5141951e3" ResolveFailedHint="&quot;C:\\G\\TamilNeram.github.io\\நேரம்.gcomp\\குழலிசை\\நேரம் மாற்று.gviweb&quot;" Signature="@d89962a91b024ac8a005564bf780d301" Target="நேரம்::குழலிசை::நேரம் மாற்று.gviweb" xmlns="http://www.ni.com/MocCommon">
+				<MethodCall Bounds="152 285 40 40" Id="9fdeb9c136084b898be6ecb5141951e3" ResolveFailedHint="&quot;\\\\vmware-host\\Shared Folders\\Documents\\கிட்படி\\TamilNeram.GitHub.io\\docs\\தமிழ்\\நேரம்.gcomp\\குழலிசை\\நேரம் மாற்று.gviweb&quot;" Signature="@6ce1b21a19ed436b835405bcf82df185" Target="நேரம்::குழலிசை::நேரம் மாற்று.gviweb" xmlns="http://www.ni.com/MocCommon">
 					<p.MethodDeclaration>
 						<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 							<Parameter Id="L0" Desc="ஆங்கிலநாள்" />
@@ -268,7 +268,7 @@
 					</p.MethodDeclaration>
 					<Terminal DataType="Timestamp" Direction="Input" Id="L0" xmlns="http://www.ni.com/PlatformFramework" />
 					<Terminal DataType="@1f1edee86c7d4d15a3a29b3303b2da5e" Direction="Input" Hotspot="0 15" Id="L1" xmlns="http://www.ni.com/PlatformFramework" />
-					<Terminal DataType="@3fa05f22e26249aeb275e960b8764097" Direction="Output" Hotspot="40 5" Id="R0" xmlns="http://www.ni.com/PlatformFramework" />
+					<Terminal DataType="@329bafc030df406086d342e9bceb01de" Direction="Output" Hotspot="40 5" Id="R0" xmlns="http://www.ni.com/PlatformFramework" />
 					<Terminal DataType="Boolean" Direction="Output" Hotspot="40 15" Id="R1" xmlns="http://www.ni.com/PlatformFramework" />
 				</MethodCall>
 				<NodeLabel AttachedTo="7bb3d53ab1d3482fad083ad026e68d54" Bounds="592 260 62 14" Id="7b761604507e4cf1b0f476f1b3017927" xmlns="http://www.ni.com/PlatformFramework">
@@ -311,34 +311,34 @@
 				<DataAccessor Bounds="547 290 40 15" DataItem="89844ea7fed14a6ea333df49018b27a6" Id="6de5e312ba50430894987b66a887297b" Label="7066472bab8d464097aeb266d88816cf" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="UInt8" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
-				<NodeLabel AttachedTo="6de5e312ba50430894987b66a887297b" Bounds="592 290 50 14" Id="7066472bab8d464097aeb266d88816cf" xmlns="http://www.ni.com/PlatformFramework">
+				<NodeLabel AttachedTo="6de5e312ba50430894987b66a887297b" Bounds="592 290 55 14" Id="7066472bab8d464097aeb266d88816cf" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>அணு(6)</p.Text>
 				</NodeLabel>
-				<Wire Id="52374bb7f60e4b96bc3cbde1b7811494" Joints="N(64b533662f35499ea96d1d564cc159d4:c7t0v)|(418,190) h(99) v(15) B(2) N(dd6a3ec937094ff089bd6f7a2de98810:Value)|(550,205) B(2) v(15) N(86d751bacaf4402a80fee4551545505b:Value)|(550,220)" xmlns="http://www.ni.com/PlatformFramework" />
-				<PropertyNode Bounds="217 70 201 215" HasErrorTerminals="False" Id="64b533662f35499ea96d1d564cc159d4" InstanceDataType="@3fa05f22e26249aeb275e960b8764097" xmlns="http://www.ni.com/MocCommon">
-					<PropertyItemTerminal DataType="@9af4623cb3e64e1982a8ae0a0cebb969" Hotspot="201 15" Id="c0t0v" Path="தொல்காப்பியம்:பருவம் (6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt32" Hotspot="201 30" Id="c1t0v" Path="திருவள்ளுவர்:௵" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt16" Hotspot="201 45" Id="c2t0v" Path="திருவள்ளுவர்:௳(366)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="@45b41eb2d0844ae1ba7866e3d495afef" Hotspot="201 60" Id="c3t0v" Path="தொல்காப்பியம்:௴(12)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 75" Id="c4t0v" Path="தொல்காப்பியம்:௳(32)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="@d108a0059c0a40728735087825919417" Hotspot="201 90" Id="c5t0v" Path="தெறிப்பு:கிழமை(7)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="@729c6920593946ab964f7ef42f51d9ea" Hotspot="201 105" Id="c6t0v" Path="நாழிகை:சிறுபொழுது (6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 120" Id="c7t0v" Path="நாழிகை:நாடி(10)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 135" Id="c8t0v" Path="பாகை:துளி(60)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 150" Id="c9t0v" Path="துளி:கணம்(6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 165" Id="c10t0v" Path="தற்பாரை:அணு(6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 180" Id="c11t0v" Path="தற்பாரை(10):சணிகம்(2)" PathElementMemberKinds="Field:Field" Usage="Optional" />
-					<PropertyItemTerminal DataType="UInt8" Hotspot="201 195" Id="c12t0v" Path="தற்பாரை(10):நொடி(2)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+				<Wire Id="52374bb7f60e4b96bc3cbde1b7811494" Joints="N(64b533662f35499ea96d1d564cc159d4:c7t0v)|(424,190) h(93) v(15) B(2) N(dd6a3ec937094ff089bd6f7a2de98810:Value)|(550,205) B(2) v(15) N(86d751bacaf4402a80fee4551545505b:Value)|(550,220)" xmlns="http://www.ni.com/PlatformFramework" />
+				<PropertyNode Bounds="217 70 207 215" HasErrorTerminals="False" Id="64b533662f35499ea96d1d564cc159d4" InstanceDataType="@329bafc030df406086d342e9bceb01de" xmlns="http://www.ni.com/MocCommon">
+					<PropertyItemTerminal DataType="@9af4623cb3e64e1982a8ae0a0cebb969" Hotspot="207 15" Id="c0t0v" Path="தொல்காப்பியம்:பருவம் (6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt32" Hotspot="207 30" Id="c1t0v" Path="திருவள்ளுவர்:௵" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt16" Hotspot="207 45" Id="c2t0v" Path="திருவள்ளுவர்:௳(366)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="@45b41eb2d0844ae1ba7866e3d495afef" Hotspot="207 60" Id="c3t0v" Path="தொல்காப்பியம்:௴(12)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 75" Id="c4t0v" Path="தொல்காப்பியம்:௳(32)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="@d108a0059c0a40728735087825919417" Hotspot="207 90" Id="c5t0v" Path="தெறிப்பு:கிழமை(7)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="@729c6920593946ab964f7ef42f51d9ea" Hotspot="207 105" Id="c6t0v" Path="நாழிகை:சிறுபொழுது (6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 120" Id="c7t0v" Path="நாழிகை:நாடி(10)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 135" Id="c8t0v" Path="பாகை:துளி(60)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 150" Id="c9t0v" Path="துளி:கணம்(6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 165" Id="c10t0v" Path="தற்பாரை:அணு(6)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 180" Id="c11t0v" Path="தற்பாரை(10):சணிகம்(2)" PathElementMemberKinds="Field:Field" Usage="Optional" />
+					<PropertyItemTerminal DataType="UInt8" Hotspot="207 195" Id="c12t0v" Path="தற்பாரை(10):நொடி(2)" PathElementMemberKinds="Field:Field" Usage="Optional" />
 				</PropertyNode>
 				<Wire Id="df469dbf1aac423faf4fca8b9ce7583b" Joints="N(9fdeb9c136084b898be6ecb5141951e3:R0)|(192,290) h(5) v(-215) N(64b533662f35499ea96d1d564cc159d4:instance in)|(217,75)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="6d8704096e334349b09372a1368236fd" Joints="N(64b533662f35499ea96d1d564cc159d4:c5t0v)|(418,160) h(109) B(1) N(2a922e27a64c40ed96d4556fb144e664:Value)|(550,160) B(1) v(-15) N(9eb57f6ef6a3498eb1b67836c5218ae3:Value)|(550,145)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="78db58bf08104bc2815e854114f2a7ca" Joints="N(64b533662f35499ea96d1d564cc159d4:c6t0v)|(418,175) h(109) B(1) N(e56f636240564639a07609260528d47f:Value)|(550,175) B(1) v(15) N(b7b8a082068b40aaa7d579e77282e004:Value)|(550,190)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="eea808648db445ef8c3f65f51d9623c8" Joints="N(64b533662f35499ea96d1d564cc159d4:c9t0v)|(418,220) h(74) v(45) B(2) N(7bb3d53ab1d3482fad083ad026e68d54:Value)|(550,265) B(2) v(15) N(b119c5baa98f4363a62f86ec82f0191b:Value)|(550,280)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="f7c2aa53c238498bb394ca2e5ffcdd18" Joints="N(64b533662f35499ea96d1d564cc159d4:c8t0v)|(418,205) h(84) v(30) B(2) N(5af0384912734273ac01815b60b96d9f:Value)|(550,235) B(2) v(15) N(a12e9ef685ab41bb941ef765b46e3140:Value)|(550,250)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="36c7f03e3c054352a515224e50a97f12" Joints="N(64b533662f35499ea96d1d564cc159d4:c10t0v)|(418,235) h(59) v(60) N(6de5e312ba50430894987b66a887297b:Value)|(550,295)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="6bcab81237e646feb9653b696bcf9e2d" Joints="N(64b533662f35499ea96d1d564cc159d4:c11t0v)|(418,250) h(44) v(60) B(2) N(ca23717002e54ff2952247cf39e5ed82:Value)|(550,310) B(2) v(15) N(16f726d768964123814799b7e33492c8:Value)|(550,325)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="6d8704096e334349b09372a1368236fd" Joints="N(64b533662f35499ea96d1d564cc159d4:c5t0v)|(424,160) h(103) B(1) N(2a922e27a64c40ed96d4556fb144e664:Value)|(550,160) B(1) v(-15) N(9eb57f6ef6a3498eb1b67836c5218ae3:Value)|(550,145)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="78db58bf08104bc2815e854114f2a7ca" Joints="N(64b533662f35499ea96d1d564cc159d4:c6t0v)|(424,175) h(103) B(1) N(e56f636240564639a07609260528d47f:Value)|(550,175) B(1) v(15) N(b7b8a082068b40aaa7d579e77282e004:Value)|(550,190)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="eea808648db445ef8c3f65f51d9623c8" Joints="N(64b533662f35499ea96d1d564cc159d4:c9t0v)|(424,220) h(68) v(45) B(2) N(7bb3d53ab1d3482fad083ad026e68d54:Value)|(550,265) B(2) v(15) N(b119c5baa98f4363a62f86ec82f0191b:Value)|(550,280)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="f7c2aa53c238498bb394ca2e5ffcdd18" Joints="N(64b533662f35499ea96d1d564cc159d4:c8t0v)|(424,205) h(78) v(30) B(2) N(5af0384912734273ac01815b60b96d9f:Value)|(550,235) B(2) v(15) N(a12e9ef685ab41bb941ef765b46e3140:Value)|(550,250)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="36c7f03e3c054352a515224e50a97f12" Joints="N(64b533662f35499ea96d1d564cc159d4:c10t0v)|(424,235) h(53) v(60) N(6de5e312ba50430894987b66a887297b:Value)|(550,295)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="6bcab81237e646feb9653b696bcf9e2d" Joints="N(64b533662f35499ea96d1d564cc159d4:c11t0v)|(424,250) h(38) v(60) B(2) N(ca23717002e54ff2952247cf39e5ed82:Value)|(550,310) B(2) v(15) N(16f726d768964123814799b7e33492c8:Value)|(550,325)" xmlns="http://www.ni.com/PlatformFramework" />
 				<IsEqualTo0 Bounds="427 325 30 30" Id="5959a5a498924c7f895b4215dfab085b" />
-				<Wire Id="f31a73e969d4b84b15a4612ef2d14ed" Joints="N(64b533662f35499ea96d1d564cc159d4:c12t0v)|(418,265) h(5) v(75) N(5959a5a498924c7f895b4215dfab085b:x)|(427,340)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="f31a73e969d4b84b15a4612ef2d14ed" Joints="N(64b533662f35499ea96d1d564cc159d4:c12t0v)|(424,265) h(5) v(55) h(-7) v(20) N(5959a5a498924c7f895b4215dfab085b:x)|(427,340)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="580f77329054455fbe8150d6186736df" Joints="N(5959a5a498924c7f895b4215dfab085b:x = 0?)|(457,340) N(93d48799bfd24a8a85f50b8afbae94aa:Value)|(550,340)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="da39017be99643a2adf272bd1b01f99e" Joints="N(9fdeb9c136084b898be6ecb5141951e3:R1)|(192,300) h(85) v(160) N(57f20606552e4b23af00369d895f748f:c0t0v)|(314,460)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wait Bounds="287 535 40 40" Id="8b10345745fd497e8b880b60cda202f8" />
@@ -403,11 +403,11 @@
 				<NodeLabel AttachedTo="cff0d7e4ca8649ccbca9f0a64ab652b4" Bounds="592 20 66 14" Id="3a11c05419164d67919771a085b99f09" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>பருவங்கள்</p.Text>
 				</NodeLabel>
-				<Wire Id="c4ffc69792f43c5b9f3e0fde2246a0f" Joints="N(64b533662f35499ea96d1d564cc159d4:c4t0v)|(418,145) h(104) v(-15) B(2) N(26774e1ec7c8494ea82a0315d3c28388:Value)|(550,130) B(2) v(-15) N(658326334ff04b0487178447a665b474:Value)|(550,115)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="3d228c8fe1840a3a00b3a0fac042ea1" Joints="N(64b533662f35499ea96d1d564cc159d4:c3t0v)|(418,130) h(97) v(-30) B(2) N(5debadb62bff4986b5546a1965bb4edf:Value)|(550,100) B(2) v(-15) N(a843c3a4ac9f44abb06abadb1d27025f:Value)|(550,85)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="fe661c37b0c74ab3ba802f2a7073a5d0" Joints="N(64b533662f35499ea96d1d564cc159d4:c2t0v)|(418,115) h(87) v(-45) B(2) N(d4c4367685514cc1bb9d9dc96e73aebb:Value)|(550,70) B(2) v(-15) N(d6c0dfdf0da645d99262fa67073efbb1:Value)|(550,55)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="e65cc70701364b268652da01a30d0a2f" Joints="N(64b533662f35499ea96d1d564cc159d4:c1t0v)|(418,100) h(77) v(-60) N(529ab21addef4c58a0853f71c0c749ba:Value)|(550,40)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="b82b4a1809c943ecabd3c227907c200e" Joints="N(64b533662f35499ea96d1d564cc159d4:c0t0v)|(418,85) h(67) v(-60) B(2) N(cff0d7e4ca8649ccbca9f0a64ab652b4:Value)|(550,25) B(2) v(-15) N(4fda085f57ac43fcbeb2dced8bf7e086:Value)|(550,10)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="c4ffc69792f43c5b9f3e0fde2246a0f" Joints="N(64b533662f35499ea96d1d564cc159d4:c4t0v)|(424,145) h(98) v(-15) B(2) N(26774e1ec7c8494ea82a0315d3c28388:Value)|(550,130) B(2) v(-15) N(658326334ff04b0487178447a665b474:Value)|(550,115)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="3d228c8fe1840a3a00b3a0fac042ea1" Joints="N(64b533662f35499ea96d1d564cc159d4:c3t0v)|(424,130) h(91) v(-30) B(2) N(5debadb62bff4986b5546a1965bb4edf:Value)|(550,100) B(2) v(-15) N(a843c3a4ac9f44abb06abadb1d27025f:Value)|(550,85)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="fe661c37b0c74ab3ba802f2a7073a5d0" Joints="N(64b533662f35499ea96d1d564cc159d4:c2t0v)|(424,115) h(81) v(-45) B(2) N(d4c4367685514cc1bb9d9dc96e73aebb:Value)|(550,70) B(2) v(-15) N(d6c0dfdf0da645d99262fa67073efbb1:Value)|(550,55)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="e65cc70701364b268652da01a30d0a2f" Joints="N(64b533662f35499ea96d1d564cc159d4:c1t0v)|(424,100) h(71) v(-60) N(529ab21addef4c58a0853f71c0c749ba:Value)|(550,40)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="b82b4a1809c943ecabd3c227907c200e" Joints="N(64b533662f35499ea96d1d564cc159d4:c0t0v)|(424,85) h(61) v(-60) B(2) N(cff0d7e4ca8649ccbca9f0a64ab652b4:Value)|(550,25) B(2) v(-15) N(4fda085f57ac43fcbeb2dced8bf7e086:Value)|(550,10)" xmlns="http://www.ni.com/PlatformFramework" />
 				<RightShiftRegister Bounds="888 490 13 10" Docking="Right" Id="1ef440e3ef714483b658834656ee23db" Terminals="16, 17=c25c028f261045869809fbead941703b" />
 				<LeftShiftRegister Bounds="-4 490 13 10" Docking="Left" Id="79ef3b0c457243ffade826477964096a" RightRegister="1ef440e3ef714483b658834656ee23db" Terminals="o0=e118f5c23b70424a837f020d1246b573, i0=f032eba8c35542c7969afa3d1d84c50d" />
 				<RightShiftRegister Bounds="888 505 13 10" Docking="Right" Id="ddca7986626247a887013a9924ec5197" Terminals="16, 17=86c07c3af37c443b887cd6b991b2130c" />
@@ -423,7 +423,7 @@
 			<NodeLabel AttachedTo="c052a21d59c7432f866abe0c1f99028f" Bounds="340 435 147 14" Id="b94e3e3e61d24d5ea20b81bc8dfb50f4" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>பருவம்:திங்கள்:நாள்கள்</p.Text>
 			</NodeLabel>
-			<MethodCall Bounds="-140 300 40 40" Id="d0183def8489420bbccc3019728d5e17" ResolveFailedHint="&quot;C:\\G\\TamilNeram.github.io\\நேரம்.gcomp\\குழலிசை\\குறள்தொடக்கம்.gviweb&quot;" Signature="@c76cd323ac1644c898aab90a0506b95a" Target="நேரம்::குழலிசை::குறள்தொடக்கம்.gviweb" xmlns="http://www.ni.com/MocCommon">
+			<MethodCall Bounds="-140 300 40 40" Id="d0183def8489420bbccc3019728d5e17" ResolveFailedHint="&quot;\\\\vmware-host\\Shared Folders\\Documents\\கிட்படி\\TamilNeram.GitHub.io\\docs\\தமிழ்\\நேரம்.gcomp\\குழலிசை\\குறள்தொடக்கம்.gviweb&quot;" Signature="@c76cd323ac1644c898aab90a0506b95a" Target="நேரம்::குழலிசை::குறள்தொடக்கம்.gviweb" xmlns="http://www.ni.com/MocCommon">
 				<p.MethodDeclaration>
 					<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 						<Parameter Id="L0" Desc="கணம்?" />
@@ -447,7 +447,7 @@
 			<NodeLabel AttachedTo="6a36f06a728649938db5bd7a482e0277" Bounds="-175 282 30 15" Id="450e50ae401141798197ef5589319098" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>கணம்?</p.Text>
 			</NodeLabel>
-			<MethodCall Bounds="210 425 40 40" Id="1700a374f4f74f17b50058c010ecb042" ResolveFailedHint="&quot;C:\\G\\TamilNeram.github.io\\நேரம்.gcomp\\குழலிசை\\திங்கள்-நாள்கள்.gviweb&quot;" Signature="@fffbbef22d7d4d19b84ce169dca58ea4" Target="நேரம்::குழலிசை::திங்கள்-நாள்கள்.gviweb" xmlns="http://www.ni.com/MocCommon">
+			<MethodCall Bounds="210 425 40 40" Id="1700a374f4f74f17b50058c010ecb042" ResolveFailedHint="&quot;\\\\vmware-host\\Shared Folders\\Documents\\கிட்படி\\TamilNeram.GitHub.io\\docs\\தமிழ்\\நேரம்.gcomp\\குழலிசை\\திங்கள்-நாள்கள்.gviweb&quot;" Signature="@fffbbef22d7d4d19b84ce169dca58ea4" Target="நேரம்::குழலிசை::திங்கள்-நாள்கள்.gviweb" xmlns="http://www.ni.com/MocCommon">
 				<p.MethodDeclaration>
 					<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 						<Parameter Id="L2" Desc="கூட்டுதொடக்கம்" />
@@ -477,7 +477,7 @@
 			</MethodCall>
 			<Wire Id="c1f04537053d449a953ebbf64bccfbda" Joints="N(1700a374f4f74f17b50058c010ecb042:R1)|(250,440) N(c052a21d59c7432f866abe0c1f99028f:Value)|(298,440)" xmlns="http://www.ni.com/PlatformFramework" />
 		</BlockDiagram>
-		<HtmlFrontPanel Background="[SMSolidColorBrush]#00ffffff" Height="[float]844" Id="15" LayoutSystem="[LayoutSystem]Flexible" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" UpdatedRootPage="[string]&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&quot;en&quot;&gt;&#xA;&#xA;    &lt;head&gt;&#xA;        &lt;meta charset=&quot;utf-8&quot;&gt;&#xA;        &lt;!---Read only section. Source panel edits to these document properties will not be persisted--&gt;&#xA;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#xA;        &lt;title&gt;நேரம்-தாவல்&lt;/title&gt;&#xA;        &lt;!---End read only section. Additional scripts or document properties can be added outside this section--&gt;&#xA;        &lt;style ni-autogenerated-style-id=&quot;&quot;&gt;&#xA;            /* Edits to the content of this style tag will not be persisted. To add additional styles, add a new style tag before or after this one */&#xA;        &lt;/style&gt;&#xA;&#xA;    &lt;/head&gt;&#xA;&#xA;    &lt;body&gt;&#xA;        &lt;div id=&quot;ni-outdated-browser-message&quot; style=&quot;display:none&quot;&gt;இந்த வலை பயன்பாட்டை இயக்க தேவையான அம்சங்களை இந்த உலாவியில் காணவில்லை. ஆதரிக்கப்படும் உலாவியில் இந்த வலை பயன்பாட்டைத் திறக்கவும்.&lt;/div&gt;&#xA;        &lt;div id=&quot;ni-failed-to-load-vireo-source&quot; style=&quot;display:none&quot;&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-title&quot;&gt;&#xA;                ஆதார கோப்பை ஏற்ற முடியவில்லை&#xA;            &lt;/div&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-body&quot;&gt;&#xA;                அனைத்து WebVI கோப்புகளும் ஒரு HTTP சேவையகத்தைப் பயன்படுத்தி கிடைக்கின்றனவா என்பதை சரிபார்க்கவும் அல்லது கோப்பு முறைமையிலிருந்து கோப்புகளை நேரடியாக ஏற்றக்கூடிய உலாவியைப் பயன்படுத்தவும். மேலும் தகவலுக்கு &lt;a href=&quot;http://digital.ni.com/express.nsf/bycode/HOSTWEBAPP&quot;&gt;ஒரு சேவையகத்தில் வலை பயன்பாட்டை ஹோஸ்டிங் &lt;/a&gt;                செய்வதைப் பார்க்கவும்.&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;&#xA;        &lt;div class=&quot;ni-front-panel-wrapper&quot; vi-ref=&quot;&quot; ni-control-id=&quot;FrontPanelWrapper&quot;&gt;&#xA;            &lt;ni-front-panel control-resize-mode='fixed' layout='flexible' ni-control-id='2'&gt;&#xA;&#xA;                &#xA;                &#xA;                &#xA;                &#xA;            &lt;/ni-front-panel&gt;&#xA;            &lt;audio id=&quot;இசை&quot; autoplay=&quot;true&quot; controls=&quot;true&quot;&gt; &lt;source src=&quot;அறம்\kural-0404.mp3&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/source&gt;&lt;/audio&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/body&gt;&#xA;&#xA;&lt;/html&gt;" Width="[float]2000" xmlns="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI">
+		<HtmlFrontPanel Background="[SMSolidColorBrush]#00ffffff" Height="[float]844" Id="15" LayoutSystem="[LayoutSystem]Flexible" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" UpdatedRootPage="[string]&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&quot;en&quot;&gt;&#xA;&#xA;    &lt;head&gt;&#xA;        &lt;meta charset=&quot;utf-8&quot;&gt;&#xA;        &lt;!---Read only section. Source panel edits to these document properties will not be persisted--&gt;&#xA;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#xA;        &lt;title&gt;நேரம்-தாவல்&lt;/title&gt;&#xA;        &lt;!---End read only section. Additional scripts or document properties can be added outside this section--&gt;&#xA;        &lt;style ni-autogenerated-style-id=&quot;&quot;&gt;&#xA;            /* Edits to the content of this style tag will not be persisted. To add additional styles, add a new style tag before or after this one */&#xA;        &lt;/style&gt;&#xA;&#xA;    &lt;/head&gt;&#xA;&#xA;    &lt;body&gt;&#xA;        &lt;div id=&quot;ni-outdated-browser-message&quot; style=&quot;display:none&quot;&gt;இந்த வலை பயன்பாட்டை இயக்க தேவையான அம்சங்களை இந்த உலாவியில் காணவில்லை. ஆதரிக்கப்படும் உலாவியில் இந்த வலை பயன்பாட்டைத் திறக்கவும்.&lt;/div&gt;&#xA;        &lt;div id=&quot;ni-failed-to-load-vireo-source&quot; style=&quot;display:none&quot;&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-title&quot;&gt;&#xA;                ஆதார கோப்பை ஏற்ற முடியவில்லை&#xA;            &lt;/div&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-body&quot;&gt;&#xA;                அனைத்து WebVI கோப்புகளும் ஒரு HTTP சேவையகத்தைப் பயன்படுத்தி கிடைக்கின்றனவா என்பதை சரிபார்க்கவும் அல்லது கோப்பு முறைமையிலிருந்து கோப்புகளை நேரடியாக ஏற்றக்கூடிய உலாவியைப் பயன்படுத்தவும். மேலும் தகவலுக்கு &lt;a href=&quot;http://digital.ni.com/express.nsf/bycode/HOSTWEBAPP&quot;&gt;ஒரு சேவையகத்தில் வலை பயன்பாட்டை ஹோஸ்டிங் &lt;/a&gt;                செய்வதைப் பார்க்கவும்.&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;&#xA;        &lt;div class=&quot;ni-front-panel-wrapper&quot; vi-ref=&quot;&quot; ni-control-id=&quot;FrontPanelWrapper&quot;&gt;&#xA;            &lt;ni-front-panel control-resize-mode='fixed' layout='flexible' ni-control-id='2'&gt;&#xA;&#xA;                &#xA;                &#xA;                &#xA;                &#xA;            &lt;/ni-front-panel&gt;&#xA;            &lt;audio id=&quot;இசை&quot; autoplay=&quot;true&quot; controls=&quot;true&quot;&gt; &lt;source src=&quot;அறம்\திருக்குறள்-0404.mp3&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/source&gt;&lt;/audio&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/body&gt;&#xA;&#xA;&lt;/html&gt;" Width="[float]2000" xmlns="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI">
 			<FlexibleLayoutGroup Height="[float]50" Id="58e95831ce7849d484377ccad1f1b10e" Left="[float]30" Top="[float]30" Width="[float]1940" xmlns="http://www.ni.com/PanelCommon">
 				<FlexibleLayoutWrapper FlexGrow="[double]1" Height="[float]50" Id="ad6eae893714d8db4ef6dda82847a01" Left="[float]0" Top="[float]0" Width="[float]1940">
 					<FlexibleLayoutContainer Background="[SMSolidColorBrush]#ff0076a3" BorderBrush="[SMSolidColorBrush]#ff0070c0" Height="[float]34" HorizontalContentAlignment="[FlexibleLayoutHorizontalContentAlignment]Center" Id="fbf3393bacd8490baed174a0fbdcd6c5" Left="[float]8" Top="[float]8" Width="[float]1924">
@@ -823,7 +823,7 @@
 										<NumericText BaseName="[string]Numeric" Height="[float]24" Id="24702da67e744e5dae3070adee7d6d1a" Interval="[byte]1" IsReadOnly="[bool]True" Label="[UIModel]416c22146be643f2a45af75cb92f03a8" Left="[float]8" RadixBase="[RadixBase]Decimal" TabIndex="[int]5" TextAlignment="[TextAlignment]Center" Top="[float]212" Value="{DataItemBinding Id=89844ea7fed14a6ea333df49018b27a6}" ValueFormatter="[string]DisplayFormat=Decimal:Digits=6:DigitDisplayType=SignificantDigits:MinimumFieldWidth=0:AlwaysShowSign=False:ShowThousandsSeparator=False" ValueType="[Type]UInt8" Width="[float]72">
 											<FontSetting FontFamily="Segoe UI" FontSize="12" Id="c33717f81e6440349f504743e45af716" xmlns="http://www.ni.com/PlatformFramework" />
 										</NumericText>
-										<Label Height="[float]22" Id="416c22146be643f2a45af75cb92f03a8" LabelOwner="[UIModel]24702da67e744e5dae3070adee7d6d1a" Left="[float]8" Text="[string]அணு(6)" Top="[float]186" Width="[float]65" xmlns="http://www.ni.com/PanelCommon">
+										<Label Height="[float]22" Id="416c22146be643f2a45af75cb92f03a8" LabelOwner="[UIModel]24702da67e744e5dae3070adee7d6d1a" Left="[float]8" Text="[string]அணு(6)" Top="[float]186" Width="[float]72" xmlns="http://www.ni.com/PanelCommon">
 											<FontSetting FontFamily="Segoe UI" FontSize="12" Id="85ba33c88d4440b985072d93799d0ee4" xmlns="http://www.ni.com/PlatformFramework" />
 										</Label>
 									</LayoutPanel>
@@ -1100,8 +1100,8 @@
 				<DataType>UInt8</DataType>
 			</Enumeration>
 		</p.TypeReference>
-		<p.TypeReference TypeId="d89962a91b024ac8a005564bf780d301">
-			<Attributed AttributedType="@b14d45a4298b45a6a66f8c35292d4496">
+		<p.TypeReference TypeId="6ce1b21a19ed436b835405bcf82df185">
+			<Attributed AttributedType="@57af6d0f09e34327a7c49b9806d2fc7d">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
@@ -1122,12 +1122,12 @@
 				<DataType>UInt8</DataType>
 			</Enumeration>
 		</p.TypeReference>
-		<p.TypeReference TypeId="3fa05f22e26249aeb275e960b8764097">
+		<p.TypeReference TypeId="329bafc030df406086d342e9bceb01de">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
 				<Members>
 					<Field FieldAccessPolicy="ReadWrite" Name="திருவள்ளுவர்" DataType="@1b43a85e62f14807a37a76136ee4ec7c" />
 					<Field FieldAccessPolicy="ReadWrite" Name="தொல்காப்பியம்" DataType="@845d2e30360c4af883c8a4c7baaffd25" />
-					<Field FieldAccessPolicy="ReadWrite" Name="தெறிப்பு" DataType="@ced2f4e95be341288f9d253dff2b9856" />
+					<Field FieldAccessPolicy="ReadWrite" Name="தெறிப்பு" DataType="@9169d5be8e694b349143a8456c4d0cbf" />
 					<Field FieldAccessPolicy="ReadWrite" Name="பாகை" DataType="@0dd207475a1f44009e729cd7cdd7caa5" />
 					<Field FieldAccessPolicy="ReadWrite" Name="நாழிகை" DataType="@a4a8ba43c7384e8393e16feb58a2aea3" />
 					<Field FieldAccessPolicy="ReadWrite" Name="துளி" DataType="@ef004b68362546fd8eaaf1dfe225434b" />
@@ -1391,7 +1391,7 @@
 				<DataType>UInt8</DataType>
 			</Enumeration>
 		</p.TypeReference>
-		<p.TypeReference TypeId="b14d45a4298b45a6a66f8c35292d4496">
+		<p.TypeReference TypeId="57af6d0f09e34327a7c49b9806d2fc7d">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="நேரம் மாற்று.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@48f3a1645bc741cdb5ba4c4eba07d070">
@@ -1404,7 +1404,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]அடுத்த குறள்" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@404a2ed2ec824396a64c7d2cd3439fc0">
+					<Attributed AttributedType="@be10d46fe89c43cb89b791aaf9ad6f05">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]காலநேரம்" />
 						</AttributeValues>
@@ -1436,11 +1436,12 @@
 				</Members>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="ced2f4e95be341288f9d253dff2b9856">
+		<p.TypeReference TypeId="9169d5be8e694b349143a8456c4d0cbf">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
 				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="நிலா (30)" DataType="Double" />
 					<Field FieldAccessPolicy="ReadWrite" Name="கிழமை(7)" DataType="@d108a0059c0a40728735087825919417" />
-					<Field FieldAccessPolicy="ReadWrite" Name="ஈடு (24)" DataType="UInt8" />
+					<Field FieldAccessPolicy="ReadWrite" Name="மணி(24)" DataType="UInt8" />
 					<Field FieldAccessPolicy="ReadWrite" Name="நிமையம்(60)" DataType="UInt8" />
 					<Field FieldAccessPolicy="ReadWrite" Name="நொடி(60)" DataType="Double" />
 				</Members>
@@ -1602,8 +1603,8 @@
 		<p.TypeReference TypeId="8708ab5b7d7c4513b0910f1eac4107c9">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="L1" DataType="@1f1edee86c7d4d15a3a29b3303b2da5e" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="404a2ed2ec824396a64c7d2cd3439fc0">
-			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R0" DataType="@3fa05f22e26249aeb275e960b8764097" />
+		<p.TypeReference TypeId="be10d46fe89c43cb89b791aaf9ad6f05">
+			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R0" DataType="@329bafc030df406086d342e9bceb01de" />
 		</p.TypeReference>
 		<p.TypeReference TypeId="f52374241c0a47719d3193f49d064c62">
 			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R1" DataType="Boolean" />
